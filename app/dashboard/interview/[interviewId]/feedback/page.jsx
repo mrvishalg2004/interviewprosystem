@@ -36,7 +36,7 @@ const Feedback = ({params}) => {
       <h2 className='font-bold text-lg text-green-500'>No interview Feedback</h2>
       : <>
       <h2 className='text-primary text-lg my-2'>
-        Your overall interview rating: <strong>7/10</strong>
+        Your overall interview rating: <strong></strong>
       </h2>
       <h2 className='text-sm text-gray-500'>Find below interview questions with coreect answers,Your answer and feedback for improvements for your next interview</h2>
       {feedbackList&&feedbackList.map((item,index)=>(

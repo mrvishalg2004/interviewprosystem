@@ -28,12 +28,11 @@ export default function Page() {
             </a>
 
             <h2 className="mt-6 text-2xl font-bold text-white sm:text-3xl md:text-4xl">
-              Welcome to Squid 🦑
+            Welcome to InterviewPro...!!
             </h2>
 
             <p className="mt-4 leading-relaxed text-white/90">
-              Lorem, ipsum dolor sit amet consectetur adipisicing elit. Eligendi
-              nam dolorum aliquam, quibusdam aperiam voluptatum.
+            𝒴𝑜𝓊𝓇 𝒜𝐼-𝓅𝑜𝓌𝑒𝓇𝑒𝒹 𝒾𝓃𝓉𝑒𝓇𝓋𝒾𝑒𝓌 𝓉𝓇𝒶𝒾𝓃𝒾𝓃𝑔 𝓅𝓁𝒶𝓉𝒻𝑜𝓇𝓂. 𝐿𝑒𝓉'𝓈 𝓊𝓃𝓁𝑜𝒸𝓀 𝓎𝑜𝓊𝓇 𝓅𝑜𝓉𝑒𝓃𝓉𝒾𝒶𝓁 𝒶𝓃𝒹 𝓅𝓇𝑒𝓅𝒶𝓇𝑒 𝓎𝑜𝓊 𝒻𝑜𝓇 𝓈𝓊𝒸𝒸𝑒𝓈𝓈!"
             </p>
           </div>
         </section>
